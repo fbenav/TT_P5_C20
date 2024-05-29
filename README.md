@@ -6,3 +6,5 @@ Generamos 3 gráficos:
 - Histograma
 - Gráfico de disperción
 - Boxplot
+
+**Link a la aplicación**: https://tt-p5-c20.onrender.com/
